@@ -52,8 +52,8 @@ public class CajaRegistradoraPila {
     StringBuilder ticket = new StringBuilder();
 
     // Encabezado del ticket
-    ticket.append("=== Tienda 'Mi Tienda' ===\n");
-    ticket.append("Dirección: Calle Falsa 123, Ciudad, País\n");
+    ticket.append("=== Tienda 'Abarrotes' ===\n");
+    ticket.append("Dirección: Calle Encinos 123, EDO MEX, Mexico\n");
     ticket.append("Teléfono: +123 456 7890\n");
     ticket.append("==================================\n");
 
